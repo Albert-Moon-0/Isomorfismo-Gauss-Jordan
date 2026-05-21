@@ -1,2 +1,0 @@
-# Isomorfismo-Gauss-Jordan
-Demostración
